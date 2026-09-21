@@ -1,0 +1,15 @@
+title: 모각공 스터디
+description: 함께 공부하고, 배운 것을 차곡차곡 기록합니다.
+lang: ko-KR
+timezone: Asia/Seoul
+theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+
+minima:
+  date_format: "%Y년 %m월 %d일"
+
+exclude:
+  - _templates
